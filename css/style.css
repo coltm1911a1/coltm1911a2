@@ -142,7 +142,7 @@ img {
                   header
 --------------------------------------*/
 #page-header {
-  background-image: url(../images/bg-main_visual.jpg);
+  background-image: url(./images/bg-main_visual.jpg);
   background-size: cover;
   padding-top: 40%;
   position: relative;
@@ -163,7 +163,7 @@ img {
 }
 
 #feature {
-  background-image: url(../images/bg-content.jpg);
+  background-image: url(./images/bg-content.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
